@@ -1,8 +1,8 @@
 # Agentic AI TrendSmith
 
 ## Overview
-Agentic AI TrendSmith is an **autonomous multi-agent AI research and content generation pipeline** built using CrewAI.  
-It leverages **OpenAI** for natural language processing and **SerperDevTool** for real-time search on AI trends, combining **automated research** and **blog content creation** in a seamless workflow.
+* Agentic AI TrendSmith is an **autonomous multi-agent AI research and content generation pipeline** built using CrewAI.  
+* It leverages **OpenAI** for natural language processing and **SerperDevTool** for real-time search on AI trends, combining **automated research** and **blog content creation** in a seamless workflow.
 
 ## Key Features
 - **Multi-Agent Orchestration**: AI/ML Researcher + Tech Content Strategist working in sequence.
